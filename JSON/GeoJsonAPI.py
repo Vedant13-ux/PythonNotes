@@ -3,6 +3,7 @@ import urllib.parse
 import urllib.error
 import json
 import ssl
+ 
 
 api_key = False
 # If you have a Google Places API key, enter it here
